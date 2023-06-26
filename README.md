@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there I'm Matias, a Full stack developer with 6 years of professional experience 👋
+
+- 🔭 I’m cofounder of [Alseco](https://alseco.cl/) and [Databot](https://databot.cl/)
+
+## My main skills are  
+- Modern Javascript
+- ReactJS
+- VueJS
+- SQL
+- Ruby in rails!
 
 <!--
 **Matiasruizr/matiasruizr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
