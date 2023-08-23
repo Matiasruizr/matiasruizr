@@ -16,7 +16,6 @@ const me = new Human({
         misc: ["selenium", "Sass", "css", "heroku", "vercel", "digital ocean", 'chatGPT']
     },
     softSkills: ['Proactive','Discipline', 'Resilience', 'Perseverance', 'Work Ethics'],
-    currentFocus: 'Alseco.cl',
     passions: ['Technology', 'Entrepreneurship', 'Weight lifting', 'Cars and motorcycles'],
     funFact: "There are two ways to write error-free programs; only the third one works"
 });
