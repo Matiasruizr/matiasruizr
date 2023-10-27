@@ -1,4 +1,4 @@
-# Hi there I'm Matias, a Full stack developer with 6 years of professional experience 👋
+# Hi there I'm Matias, a Full stack developer with 7 years of professional experience 👋
 
 - 🔭 I’m cofounder of [Alseco](https://alseco.cl/) and [Databot](https://databot.cl/)
 - Professional experience in amazing global tech companies such as [AppliedVR](https://www.appliedvr.io/), [ICapital](https://icapital.com/) and more!.
